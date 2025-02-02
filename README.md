@@ -97,6 +97,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/0e376bf6-eabd-4ccd-9c4b-b1f14d9213d0)
+
 
 
 
